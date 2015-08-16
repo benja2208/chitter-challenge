@@ -1,3 +1,6 @@
+Had a lot of issues with my challenge, after spending hours trying to make it work I will try it again tomorrow therefore my submission will be late
+
+
 Chitter Challenge
 =================
 
